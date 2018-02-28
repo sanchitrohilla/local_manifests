@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<project name="sanchitrohilla/device_yu_tomato" path="device/yu/tomato" remote="github" revision="8.1" />
+<project name="sanchitrohilla/device_cyanogen_msm8916-common" path="device/cyanogen/msm8916-common" remote="github" revision="o" />
+<project name="sanchitrohilla/Recursive_Kernel" path="kernel/cyanogen/msm8916" remote="github" revision="o" />
+<project name="sanchitrohilla/vendor_yu" path="vendor/yu" remote="github" revision="o" />
+<project name="AospExtended/platform_hardware_qcom_display" path="hardware/qcom/display" remote="github" revision="8.1.x" />
+<project name="AospExtended/platform_hardware_qcom_display" path="hardware/qcom/display-caf/msm8916" remote="github" revision="8.1.x-caf-8916" />
+</manifest>
+
